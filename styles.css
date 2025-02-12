@@ -1,0 +1,30 @@
+h1{
+    color: royalblue;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-align: center;
+}
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    
+
+    
+}
+header nav li{
+    margin: 4px;
+
+}
+
+header nav ul li a {
+    
+    text-decoration: none;
+    font-size: large;
+    font: weight 600px;
+}
+header{
+    background-color: rgb(59, 172, 25)
+    
+}
